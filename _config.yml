@@ -1,7 +1,7 @@
 
 # SEO settings
 title: "Ryan's"
-title2: "Blog" # default: ""
+title2: " Blog" # default: ""
 description: "Just another minimalist Jekyll theme that focuses on technical writing."
 keywords: "Software, engineer, blog, skybet, devops, web, minimalist, security, hack, greenwich"
 url: http://razki.github.io/devBlog # site url
