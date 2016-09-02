@@ -2,7 +2,7 @@ name: Ryan's Blog
 url: http://razki.github.io
 description: Personal github.io page
 
-permalink: /:year/:month/:day/:title/
+permalink: /:year-:month-:day-:title/
 paginate: 10
 
 gems: [jekyll-paginate]
