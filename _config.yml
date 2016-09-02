@@ -2,7 +2,7 @@
 # SEO settings
 title: "Ryan's"
 title2: " Blog" # default: ""
-description: "Just another minimalist Jekyll theme that focuses on technical writing."
+description: "Blog that pretty much allows me to vent about anything that I find interesting at the time."
 keywords: "Software, engineer, blog, skybet, devops, web, minimalist, security, hack, greenwich"
 url: http://razki.github.io/devBlog # site url
 baseurl: "/devBlog" # apply repo name if use it under gh-pages branch
@@ -25,7 +25,7 @@ sass:
 author:
   name     : "Ryan Morrison"
   job      : "Software Engineer at Sky Betting & Gaming"
-  bio      : "I graduated from The University of Greenwich with a first class degree in Computer Science."
+  bio      : "I like secrutiy things"
   thumb    : /images/avatar.png
   email    : contact@ryan.pm
   url      : https://razki.github.io/devBlog
