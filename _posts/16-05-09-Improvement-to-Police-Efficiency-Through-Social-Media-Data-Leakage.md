@@ -38,7 +38,7 @@ To conclude; within the “law enforcement” section of this literature review 
 
 Within the “Ethics Issues” section of this literature review it is apparent that criminals do indeed use social media to express or communicate their plans with other individuals, it would seem that the need for surveillance is of high importance. Twitter terms of service have confirmed that the information that these individuals have posted is available to the world (Twitter, 2016). Janie Mac poses a very good point however, which is that these types of people know that the police are monitoring these types of tweets so what’s to stop them moving to a more private solution (Wright, 2013).
 
-#References.
+**References.**
 
 Tripp, S. and Bichelmeyer, B. (1990). Rapid prototyping: An alternative instructional design strategy. Education Technology Research and Development, 38(1), pp.31–44.
 
