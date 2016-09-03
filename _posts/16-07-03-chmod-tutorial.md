@@ -6,11 +6,10 @@ description: "tutorial that teaches you how to use the numeric syntax of chmod"
 keywords: "chmod, syntax, tutorial"
 ---
 
-# chmod tutorial
-
 ![chmod](https://cdn-images-1.medium.com/max/1600/1*lbYhLhE5GWRzMeIf2llFMQ.png)
 
 This is a **quick** alternative tutorial on how to use the permission numbers to chmod a file, it’s pretty much simple addition. Below is an infographic pulled from google.
+
 
 
 ## Examples
