@@ -1,3 +1,11 @@
+---
+layout: post
+title: "chmod tutorial"
+comments: false
+description: "tutorial that teaches you how to use the numeric syntax of chmod"
+keywords: "chmod, syntax, tutorial"
+---
+
 # chmod tutorial
 
 ![chmod](https://cdn-images-1.medium.com/max/1600/1*lbYhLhE5GWRzMeIf2llFMQ.png)
