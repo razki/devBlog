@@ -8,7 +8,7 @@ keywords: "police, data, leakage, social, media, horizon scanning, open source"
 
 ![security](https://cdn-images-1.medium.com/max/1200/1*_DwCU8vKkaYAk9jAEgicgQ.jpeg)
 
-Most people on the internet today have social media profiles, and this is a desirable resource for keeping in contact with friends and family, and even acquaintances, but even better for those that wish to find out everything about your private life. Social media has evolved in the past 6 years from just posting a status about what you’re doing to geo-locating your every move with timestamps. There are 1,965,000,000 registered user’s combined between Facebook, Twitter and Instagram as of March 24th 2015 (Statisticbrain, 2015) and most social networks like Twitter have the privacy settings set to default upon account creation (Twitter, 2015), and default means that your information can be viewed by anyone on the internet even without an account themselves, this includes geo-location and your personal bio and images.
+**Most** people on the internet today have social media profiles, and this is a desirable resource for keeping in contact with friends and family, and even acquaintances, but even better for those that wish to find out everything about your private life. Social media has evolved in the past 6 years from just posting a status about what you’re doing to geo-locating your every move with timestamps. There are 1,965,000,000 registered user’s combined between Facebook, Twitter and Instagram as of March 24th 2015 (Statisticbrain, 2015) and most social networks like Twitter have the privacy settings set to default upon account creation (Twitter, 2015), and default means that your information can be viewed by anyone on the internet even without an account themselves, this includes geo-location and your personal bio and images.
 
 Often Twitter users have the same picture of themselves and the same ‘handle’ (username) on all their social media sites (Gan and Jenkins, 2015) which will allow anyone to match up the accounts and build a profile of someone easily with the additional information found on the counterpart accounts. There are many uses for the open source data that can be collected from the social media account, most importantly evidence to a crime, such that with the use of the data found, someone could become a possible witness to a crime. The data could be used against someone to catch them committing a crime, based on their regular geo-locations of their tweets and other social updates.
 
@@ -38,7 +38,7 @@ To conclude; within the “law enforcement” section of this literature review 
 
 Within the “Ethics Issues” section of this literature review it is apparent that criminals do indeed use social media to express or communicate their plans with other individuals, it would seem that the need for surveillance is of high importance. Twitter terms of service have confirmed that the information that these individuals have posted is available to the world (Twitter, 2016). Janie Mac poses a very good point however, which is that these types of people know that the police are monitoring these types of tweets so what’s to stop them moving to a more private solution (Wright, 2013).
 
-##References.
+#References.
 
 Tripp, S. and Bichelmeyer, B. (1990). Rapid prototyping: An alternative instructional design strategy. Education Technology Research and Development, 38(1), pp.31–44.
 
