@@ -28,12 +28,10 @@ body {
 }
 
 body {
-  background-image: url("/../images/bg.jpg");
-  background-size: cover;
-  background-position: top center;
+  background-color: $base-background-color;
 }
 
-hr {  
+hr {
   border-top: none;
   border-bottom: 2px solid lighten($light-gray-color, 7%);
   width: 100%;
@@ -129,7 +127,7 @@ hr {
 }
 
 .post-list {
-  background-color: purple;
+  background-color: lighten($light-gray-color, 17%);
 }
 
 .category-title {
@@ -145,7 +143,7 @@ hr {
   display: block;
 
   a {
-    color: white;
+    color: $action-color;
     font-weight: bold;
   }
 
