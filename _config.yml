@@ -4,10 +4,10 @@ title: "Ryan's"
 title2: " Blog" # default: ""
 description: "Occasional Blogging"
 keywords: "Software, engineer, blog, skybet, devops, web, minimalist, security, hack, greenwich"
-url: http://blog.ryan.pm # site url
+url: https://blog.ryan.pm # site url
 baseurl: "" # apply repo name if use it under gh-pages branch
 # baseurl: null # apply null if repo name is something like username.github.io
-homepage: "https://ryan.pm"
+hp: https://ryan.pm
 
 # Build settings
 permalink   : /:year/:title/
