@@ -2,9 +2,9 @@
 # SEO settings
 title: "Ryan's"
 title2: " Blog" # default: ""
-description: "Blog that pretty much allows me to vent about anything that I find interesting at the time."
+description: "Occasional Blogging"
 keywords: "Software, engineer, blog, skybet, devops, web, minimalist, security, hack, greenwich"
-url: http://razki.github.io/devBlog # site url
+url: http://blog.ryan.pm # site url
 baseurl: "/devBlog" # apply repo name if use it under gh-pages branch
 # baseurl: null # apply null if repo name is something like username.github.io
 
@@ -24,14 +24,14 @@ sass:
 # Author settings
 author:
   name     : "Ryan Morrison"
-  job      : "Software Engineer at Sky Betting & Gaming"
-  bio      : "I like security things"
+  job      : "Software Engineer"
+  bio      : "Occasionally Blogging."
   thumb    : /images/avatar.png
   email    : contact@ryan.pm
-  url      : https://razki.github.io/devBlog
+  url      : https://blog.ryan.pm
   github   : http://github.com/razki
-  twitter  : http://twitter.com/sbgryan
-  linkedin : https://www.linkedin.com/in/ryan-morrison-18114066
+  twitter  : http://twitter.com/rxnmo
+  linkedin : https://www.linkedin.com/in/rmson/
 
 # social settings
 og_locale: "en_US"
