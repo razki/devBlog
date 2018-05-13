@@ -7,6 +7,7 @@ keywords: "Software, engineer, blog, skybet, devops, web, minimalist, security, 
 url: http://blog.ryan.pm # site url
 baseurl: "" # apply repo name if use it under gh-pages branch
 # baseurl: null # apply null if repo name is something like username.github.io
+homepage: "https://ryan.pm"
 
 # Build settings
 permalink   : /:year/:title/
@@ -37,6 +38,7 @@ author:
 og_locale: "en_US"
 twitter_card: "summary_large_image"
 twitter_site: "@rxnmo"
+twitter_username: "rxnmo"
 
 gems:
   - bourbon
