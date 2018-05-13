@@ -5,7 +5,7 @@ title2: " Blog" # default: ""
 description: "Occasional Blogging"
 keywords: "Software, engineer, blog, skybet, devops, web, minimalist, security, hack, greenwich"
 url: http://blog.ryan.pm # site url
-baseurl: "/devBlog" # apply repo name if use it under gh-pages branch
+baseurl: "" # apply repo name if use it under gh-pages branch
 # baseurl: null # apply null if repo name is something like username.github.io
 
 # Build settings
@@ -36,7 +36,7 @@ author:
 # social settings
 og_locale: "en_US"
 twitter_card: "summary_large_image"
-twitter_site: "@sbgryan"
+twitter_site: "@rxnmo"
 
 gems:
   - bourbon
