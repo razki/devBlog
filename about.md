@@ -4,6 +4,8 @@ title: About
 permalink: /about/
 ---
 
-**I'm Ryan** I graduated from The University of Greenwich with a first class degree in Computer Science. Current research topics that pique my interest are big data usage for police efficiency, and how social media data leakage can provide useful information to aid detecting patterns. I'm Currently a Software Engineer at Sky Betting & Gaming, which is totally a dream job.
+**I'm Ryan** I graduated from The University of Greenwich with a first class degree in Computer Science. I'm currently interested in; Kubernetes, Kotlin and AWS. I'm Currently a Software Engineer at Sky Betting & Gaming.
 
-I'm a large advocate of RSS feeds, they're wonderful aren't they.
+Things I'm reading right now: Team Geek, The Senior Software Engineer, The Effective Engineer.
+
+For the future, I'm looking into the study needed for the SA AWS Cert.
