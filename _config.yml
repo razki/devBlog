@@ -3,7 +3,7 @@
 title: "Ryan's"
 title2: " Blog" # default: ""
 description: "Occasional Blogging"
-keywords: "Software, engineer, blog, skybet, devops, web, minimalist, security, hack, greenwich"
+keywords: "Software, engineer, blog, dazn, skybet, devops, web, minimalist, security, hack, greenwich"
 url: https://blog.ryan.pm # site url
 baseurl: "" # apply repo name if use it under gh-pages branch
 # baseurl: null # apply null if repo name is something like username.github.io
@@ -28,7 +28,7 @@ author:
   job      : "Software Engineer"
   bio      : "Occasionally Blogging. Not always tech related."
   thumb    : /images/avatar.png
-  email    : contact@ryan.pm
+  email    : ryan@ryan.pm
   url      : https://blog.ryan.pm
   github   : http://github.com/razki
   twitter  : http://twitter.com/rxnmo
