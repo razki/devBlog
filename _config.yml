@@ -2,8 +2,8 @@
 # SEO settings
 title: "Ryan's"
 title2: " Blog" # default: ""
-description: "Occasional Blogging"
-keywords: "Software, engineer, blog, dazn, skybet, devops, web, minimalist, security, hack, greenwich"
+description: "Chatting about Photography, Tech, and travel"
+keywords: "Software engineering, blog, minimalist, photography, travel, beer"
 url: https://blog.ryan.pm # site url
 baseurl: "" # apply repo name if use it under gh-pages branch
 # baseurl: null # apply null if repo name is something like username.github.io
@@ -25,24 +25,36 @@ sass:
 # Author settings
 author:
   name     : "Ryan Morrison"
-  job      : "Software Engineer"
+  job      : "Software Engineer and Photographer"
   bio      : "Occasionally Blogging. Not always tech related."
   thumb    : /images/avatar.png
   email    : ryan@ryan.pm
   url      : https://blog.ryan.pm
   github   : http://github.com/razki
-  twitter  : http://twitter.com/rxnmo
   linkedin : https://www.linkedin.com/in/rmson/
+  instagram: https://instagram.com/speakofthelevel
 
 # social settings
-og_locale: "en_US"
+og_locale: "en_GB"
 twitter_card: "summary_large_image"
-twitter_site: "@rxnmo"
-twitter_username: "rxnmo"
+twitter_site: "@speakofthelevel"
+twitter_username: "speakofthelevel"
+
+social:
+  name: Ryan Morrison
+  links:
+    - https://twitter.com/speakofthelevel
+    - https://www.facebook.com/speakofthelevel
+    - https://www.linkedin.com/in/rmson/
+    - https://github.com/razki
+    - https://instagram.com/speakofthelevel
 
 gems:
   - bourbon
   - jekyll-paginate
+
+plugins:
+  - jekyll-seo-tag
 
 # navbar pages
 navbar:
